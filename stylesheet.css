@@ -1,0 +1,107 @@
+body{
+ 
+}
+
+.main01{
+    background-image: url(https://a0.muscache.com/airbnb/gift_credit_v2/HomePage/BackgroundHomeSummer.jpg);
+    background-size:cover;
+   height:0;
+   padding-top:40.61%;
+   position: relative
+   }
+ .main01 .txts{
+     position:absolute;
+     top:150px;
+     left:50px;
+ }
+.main01 h1{
+    color:white;
+    font-weight:600;
+    
+}
+.main01 p{
+color:white;
+font-weight:300;
+}
+.contents-box02{
+    margin-left:300px;
+}
+.main01 .btn{
+    font-weight:600;
+    height:40px;
+}
+h2{
+    text-align: center;
+    margin-top:30px;
+}
+.main02{
+
+}
+.containerk{
+    display:flex;
+    justify-content: space-around;
+    margin:40px;
+}
+.containerk .txts{
+
+}
+.containerk i{
+margin-left:120px;
+color:green;
+
+}
+.containerk .txtl{
+margin-left:100px;
+}
+.contanerk .txtm{
+    white-space: nowrap;
+}
+#main03{
+    background: #007A87;
+}
+#main03 .wrapper{
+text-align: center;
+}
+.wrapper img{
+    padding-top:30px;
+}
+.wrapper .txtp{
+    display:block;
+    color:black;
+}
+.main04{
+    height:400px;
+ 
+   
+}
+.main05{
+    border-bottom:2px solid black;
+    opacity:0.2;
+    padding-top:160px;
+}
+
+
+
+.seaction a{
+    display:block;
+    color:black;
+}
+.seactions{
+    display: flex;
+    justify-content: space-around;
+}
+.seaction p{
+    padding-top:30px;
+}
+.icon{
+    display:flex;
+}
+.base a{
+    display:block;
+    color:black;
+}
+footer{
+    display:flex;
+    justify-content: space-around;
+    height:70px;
+}

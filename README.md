@@ -1,2 +1,2 @@
 # airbnbcopy
-Airbnbの模写サイトです。
+Airbnbというサイトの模写です。
